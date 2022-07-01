@@ -1,4 +1,10 @@
 /**
+ * @Author: Your name
+ * @Date:   2022-06-29 18:33:24
+ * @Last Modified by:   Your name
+ * @Last Modified time: 2022-07-01 14:16:14
+ */
+/**
 * Template Name: Squadfree - v4.7.0
 * Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
 * Author: BootstrapMade.com
