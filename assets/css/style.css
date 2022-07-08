@@ -2,7 +2,7 @@
  * @Author: Your name
  * @Date:   2022-06-29 18:33:24
  * @Last Modified by:   Your name
- * @Last Modified time: 2022-07-08 15:46:04
+ * @Last Modified time: 2022-07-08 15:47:14
  */
 /**
 * Template Name: Squadfree - v4.7.0
@@ -777,9 +777,9 @@ section {
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
 }
-.portfolio-details .portfolio-details-slider img:hover{
+/* .portfolio-details .portfolio-details-slider img:hover{
   transform: scale(1);
-}
+} */
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
   margin-top: 20px;
