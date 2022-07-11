@@ -1,4 +1,11 @@
 <?php
+/**
+ * @Author: Your name
+ * @Date:   2022-06-29 18:33:26
+ * @Last Modified by:   Your name
+ * @Last Modified time: 2022-07-09 13:03:48
+ */
+
   /**
   * Requires the "PHP Email Form" library
   * The "PHP Email Form" library is available only in the pro version of the template
@@ -7,7 +14,7 @@
   */
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'contact@example.com';
+  $receiving_email_address = 'info@kedf.org.za.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );

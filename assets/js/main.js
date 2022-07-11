@@ -2,13 +2,10 @@
  * @Author: Your name
  * @Date:   2022-06-29 18:33:24
  * @Last Modified by:   Your name
- * @Last Modified time: 2022-07-01 14:16:14
+ * @Last Modified time: 2022-07-09 13:02:53
  */
 /**
-* Template Name: Squadfree - v4.7.0
-* Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+
 */
 (function() {
   "use strict";
@@ -136,7 +133,7 @@
   }, true)
 
   /**
-   * Scrool with ofset on links with a class name .scrollto
+   * Scroll with offset on links with a class name .scrollto
    */
   on('click', '.scrollto', function(e) {
     if (select(this.hash)) {
@@ -154,7 +151,7 @@
   }, true)
 
   /**
-   * Scroll with ofset on page load with hash links in the url
+   * Scroll with offset on page load with hash links in the url
    */
   window.addEventListener('load', () => {
     if (window.location.hash) {
@@ -165,7 +162,7 @@
   });
 
   /**
-   * Porfolio isotope and filter
+   * Portfolio isotope and filter
    */
   window.addEventListener('load', () => {
     let portfolioContainer = select('.portfolio-container');
